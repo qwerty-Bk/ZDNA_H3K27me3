@@ -19,3 +19,5 @@ Analysing ZDNA structures for H3K27me3 histone mark.
 Гудиев Марк, https://github.com/gudki/hse21_H3K27me3_ZDNA_human
 
 Грачев Денис, https://github.com/grach0v/minor_bioinf
+
+Анопренко Михаил, https://github.com/manoprenko/hse21_H3K27me3_ZDNA_human
