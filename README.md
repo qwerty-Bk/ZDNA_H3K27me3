@@ -4,7 +4,8 @@ Analysing ZDNA structures for H3K27me3 histone mark.
 
 ## Members
 
-Плечова Екатерина, https://github.com/kate-plechova/hse21_H3K27me3_ZDNA_human
+Плечова Екатерина, организм human, клетка SK-N-SH, разметка вторичной структуры DeepZ
+ https://github.com/kate-plechova/hse21_H3K27me3_ZDNA_human
 
 Булатова Екатерина, https://github.com/qwerty-Bk/hse21_H3K27me3_ZDNA_human
 
